@@ -19,3 +19,7 @@
     transform: rotate(0);
     transition: .3s ease;
 }
+
+.CreateTodoButton:hover {
+    transform: rotate(224deg);
+}
