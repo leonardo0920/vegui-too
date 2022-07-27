@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vegui-too/static/css/main.b37a4835.css",
+    "main.js": "/vegui-too/static/js/main.ef00a13f.js",
+    "index.html": "/vegui-too/index.html",
+    "static/media/delete.svg": "/vegui-too/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/vegui-too/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.b37a4835.css.map": "/vegui-too/static/css/main.b37a4835.css.map",
+    "main.ef00a13f.js.map": "/vegui-too/static/js/main.ef00a13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37a4835.css",
+    "static/js/main.ef00a13f.js"
+  ]
+}
